@@ -6,7 +6,7 @@ spring:
   jpa:
     generate-ddl: true
 
-
+message: New Message
 eureka:
   client:
     serviceUrl:
